@@ -4,12 +4,12 @@ OnGetCode = function ( nType )
     //public
     if( nType == 0 )
     {
-        strCode = "8i5eSjuy/Md0hs80UnO3szTSNbBAG4MPUY+JczWlOUzXsxZIEKFFo9IQKaRydEP6fpSKj53Zwblngr1zuAokh4HK5yjSTPH7B/7orYMgo7eWI7p26dzgUlFMCp4+FWkYUUQMMuTSoIqUNYc58hhXgw==";
+        strCode = "+7i/RXXjtQn9cbMAvBj4BQ5zndzuuyC+bot6Kguk5kRWxcH6UB/lIfgfnhvNCA4TE6cUW1XneUvJMBqT16OVRe5CFFA864C/aH1UQD/02Z5uzUIDwURm5ktOUhh3l6+MuKn0ZQd1dqxQzGCWcUJe2w==";
     }
     //Dev
     else
     {
-        strCode = "8i5eSjuy/Md0hs80UnO3szTSNbBAG4MPUY+JczWlOUxC91Q7bmKIfhodm61VMcduPMgelizWyWnt43Hdz4togpKxk2EqCnC9Sdm6wSwrPPmrl69Q+eDgud5GNGH9jXWO1lrzMhbMYxwLuuG0+6BOuw==";
+        strCode = "+7i/RXXjtQn9cbMAvBj4BQ5zndzuuyC+bot6Kguk5kQ5GFD+VSM6ung7wRqqmPMROkK8gHddGKqAwj5zJQEeU18nskBW4BtSlbk8XGhTTUq3qzUxjXUsuBJdAdRedMXAUWe54sdwcRCQVMWnj20gEvLpmXHSaJ635FQVkHgzm5o=";
     }
     return  strCode;
 }
